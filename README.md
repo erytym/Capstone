@@ -35,7 +35,7 @@ The following diagram shows how AsianBank works at high-level:
 
 ## AsianBank example usage
 
-This example aims to demonstrate how a user can send an email to ThePhish for it to be analyzed and how an analyst can actually analyze that email using ThePhish.
+This example aims to demonstrate how a user can send an email to ThePhish for it to be analyzed and how an analyst can actually analyze that email using AsianBank.
 
 ### A user sends an email to AsianBank
 
